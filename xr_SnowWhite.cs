@@ -14,7 +14,6 @@ namespace xr_01
             Console.WriteLine("\t story");
             Console.WriteLine("-----------------------");
             Console.WriteLine("옛날옛날 아주 아름다운 백설공주가 있었습니다.");
-            Console.WriteLine("옛날옛날 아주 아름다운 백설공주가 있었습니다.");
             Console.WriteLine("백설공주를 질투한 왕비가 사냥꾼을 시켜 백설공주를 죽이게 했습니다.");
             Console.WriteLine("백설공주가 가여워진 사냥꾼은 숲에서 백설공주를 죽이지 않고 돌아갔습니다.");
             Console.WriteLine("사냥꾼은 저주받은 숲이니 두고 가면 어차피 죽을 백설공주라고 생각했습니다.");
